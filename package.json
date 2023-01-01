@@ -1,0 +1,23 @@
+{
+  "name": "patil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilrajashri1712/Patil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilrajashri1712/Patil/issues"
+  },
+  "homepage": "https://github.com/patilrajashri1712/Patil#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.3.0"
+  }
+}
